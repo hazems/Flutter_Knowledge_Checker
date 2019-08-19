@@ -67,6 +67,7 @@ class _HomeState extends State<Home> {
     }
 
     return new MaterialApp(
+        debugShowCheckedModeBanner: false,
         home: Scaffold(
             appBar: AppBar(
               title: Text('Knowledge Checker!'),
