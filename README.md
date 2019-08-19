@@ -1,8 +1,8 @@
 # Knowledge Checker App
-A sample flutter app that is structured as follows.
+A sample flutter app that allows users to check their knowledge level.
 
 ## Getting Started
-The App has the following basic flow.
+Knowledge Checker App has the following basic flow.
 
 ### Main Screen (Users to answer multiple questions)
 ![Main Screen](resources/MainScreen.png)
